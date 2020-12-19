@@ -16,6 +16,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
+	_ "example.org/db"
 	"github.com/shawn1m/overture/core"
 )
 
